@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80087308953",
+    "firebase_url": "https://proyecto-a7b26-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-a7b26",
+    "storage_bucket": "proyecto-a7b26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80087308953:android:ab98e9c4351955b5c3b608",
+        "android_client_info": {
+          "package_name": "com.example.alarma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80087308953-j80devot95ruv260mqd32ltob9q86sg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJoviHZHU5T4S_qo73k1vutjUMNqRXaHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80087308953-j80devot95ruv260mqd32ltob9q86sg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
